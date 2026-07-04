@@ -1,0 +1,6 @@
+{
+  "name": "SwipeControl",
+  "description": "Cyberpunk-themed Android Swipe overlay simulator and Kotlin native source code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
